@@ -1,4 +1,4 @@
-name: Express Blue/Green CI/CD
+name: Express Blue / Green CI/CD
 
 on:
   push:
